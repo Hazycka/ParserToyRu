@@ -1,2 +1,3 @@
-# ParserToyRu
- Parser for site www.toy.ru
+# ParserToyRu 
+Программа автоматизированного сбора данных с каталогов сайтаЮ использующая библиотеку AngleSharp. 
+Результат работы программы представлен в файле results.csv
