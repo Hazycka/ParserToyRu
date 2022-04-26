@@ -1,0 +1,17 @@
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ParserToyRu.exe
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ParserToyRu.deps.json
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ParserToyRu.runtimeconfig.json
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ParserToyRu.dll
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ref\ParserToyRu.dll
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\ParserToyRu.pdb
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\bin\Debug\net6.0\AngleSharp.dll
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.csproj.AssemblyReference.cache
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.AssemblyInfoInputs.cache
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.AssemblyInfo.cs
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.csproj.CoreCompileInputs.cache
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.csproj.CopyComplete
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.dll
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ref\ParserToyRu.dll
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.pdb
+D:\Temp\C# learning\ParserToyRu\ParserToyRu\obj\Debug\net6.0\ParserToyRu.genruntimeconfig.cache
